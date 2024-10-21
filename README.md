@@ -20,10 +20,10 @@ Um projeto ASP.NET Core que utiliza Entity Framework Core com SQL Server. Este p
    git clone https://github.com/EsdrasMarcelinoDaSilva/RecodeProject.git
 
 Navegue até o diretório do projeto:
-cd RecodeProject
+- cd RecodeProject
 
 Restaure as dependências:
-dotnet restore
+- dotnet restore
 
 Crie o banco de dados e aplique as migrações:
 dotnet ef database update
